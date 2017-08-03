@@ -13,4 +13,4 @@ zscale : Sets the z-scale (1.0 = same scale as the x,y axes before the heliograp
 
 Returns
 -------
-magout : New magnetic field structure with the fields bxp,byp,bzp defined These are 3D arrays in x,y,z giving the x,y,z components of the force free field.
+magout : New magnetic field structure with the fields bxp,byp,bzp defined. These are 3D arrays in x,y,z giving the x,y,z components of the force free field.
